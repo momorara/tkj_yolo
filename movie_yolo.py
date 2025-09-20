@@ -37,10 +37,7 @@ model_name = model.ckpt_path # モデルファイルのパス
 print("yoloモデル:",model_name)  
 
 # 動画ファイルを開く
-video_path = "parson_640x360.mp4"
-#video_path = "Animals3.m4v"
-#video_path = "5_ume.mp4"
-#video_path = "5_maturi.mp4"
+video_path = "Animals3.m4v"
 
 cap = cv2.VideoCapture(video_path)
 print("movie_file:",video_path)  
