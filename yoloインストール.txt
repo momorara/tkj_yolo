@@ -28,9 +28,11 @@ git clone https://github.com/momorara/tkj_yolo yolo
 静止画については、
 python photo_yolo.py
 カメラについては、
-python camera_yolo.py
+python Picamera_yolo.py
 を実行してください。
-
+USBカメラの場合は、
+python USBcamera_yolo.py
+を実行してください。
 
 仮想環境から抜ける方法
 deactivate
