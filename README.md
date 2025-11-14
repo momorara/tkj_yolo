@@ -16,6 +16,7 @@ movie_yolo.py　で、動画に対して、<br>
 
 <h4><<ライセンス>></h4>
 使用しているライブラリについては、ライブラリ制作者のライセンス規定を参照ください。<br>
+GNU Affero General Public License v3.0<br>
 
 <h4><<アップデート>></h4>
 
