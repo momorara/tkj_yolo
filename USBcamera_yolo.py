@@ -11,7 +11,7 @@
 
 from ultralytics import YOLO
 import cv2
-from picamera2 import Picamera2
+#from picamera2 import Picamera2
 from imutils.video import FPS
 import time 
 import sys
