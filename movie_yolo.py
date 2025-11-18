@@ -28,16 +28,16 @@ print("qキーの入力で終了します。")
 time.sleep(1)
 
 # YOLOのモデルを読み込み（nanoモデルを推奨） 2025/8時点対応モデル
-model = YOLO("yolo11n.pt")
+# model = YOLO("yolo11n.pt")
 # model = YOLO("yolov10n.pt")
 # model = YOLO("yolov9t.pt")
-# model = YOLO("yolov8n.pt")
+model = YOLO("yolov8n.pt")
 
 model_name = model.ckpt_path # モデルファイルのパス
 print("yoloモデル:",model_name)  
 
 # 動画ファイルを開く
-video_path = "Animals3.m4v"
+video_path = "myMovie.mp4"
 
 cap = cv2.VideoCapture(video_path)
 print("movie_file:",video_path)  
