@@ -15,7 +15,7 @@ movie_yolo.py　で、動画に対して、<br>
 物体検出を実行します。<br>
 
 <h4><<使い方>></h4>
-git clone https://github.com/momorara/tkj_yolo yolo<br>
+git clone https://github.com/momorara/tkj_yolo yolo1<br>
 として、ラズパイにクローンした上で<br>
 インストール文書に従いインストールを行なってください。<br>
   
