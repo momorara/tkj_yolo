@@ -1,4 +1,7 @@
+# -*- coding: utf-8 -*-
 """
+license
+GNU Affero General Public License v3（AGPL v3）
 2025/04/10  写真に対してyoloを実施
 
 プログラムがストーとすると

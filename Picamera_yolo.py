@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+license
+GNU Affero General Public License v3（AGPL v3）
+
+"""
 from ultralytics import YOLO
 import cv2
 from   picamera2 import Picamera2

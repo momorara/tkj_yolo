@@ -1,4 +1,8 @@
+# -*- coding: utf-8 -*-
 """
+license
+GNU Affero General Public License v3（AGPL v3）
+
 2025/08/12
 人間の数をカウント
 手とかも独立して人間と判定するので、信頼度で足切りできるようにした。
